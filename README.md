@@ -1,5 +1,7 @@
 # Machine Learning's Revolution in Computer Science (2018-2023) – Research Paper  
 
+![ML Paper](https://github.com/user-attachments/assets/9c644d58-507e-457e-995f-f0454861cdb9)
+
 ## Project Overview  
 This research investigates the transformative impact of machine learning (ML) on computer science between 2018 and 2023. It highlights the evolution of algorithms, architectures, and real-world applications.  
 
